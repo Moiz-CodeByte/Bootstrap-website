@@ -1,5 +1,5 @@
 
-markdown
+
 # TinDog
 
 Welcome to TinDog! A creative and playful webpage that simulates a dating app for dogs.
@@ -24,7 +24,7 @@ TinDog is a responsive webpage designed to mimic a dating app for our furry frie
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/moizcode-byte/bootstrap-website.git
+   git clone https://github.com/moiz-codebyte/bootstrap-website.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
