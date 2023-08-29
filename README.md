@@ -10,7 +10,7 @@ TinDog is a responsive webpage designed to mimic a dating app for our furry frie
 
 ## Preview
 
-![TinDog Preview](preview.png)
+![TinDog Preview](/preview.png)
 
 ## Features
 
