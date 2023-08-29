@@ -10,7 +10,7 @@ TinDog is a responsive webpage designed to mimic a dating app for our furry frie
 
 ## Preview
 
-![TinDog Preview](/preview.png)
+![TinDog Preview](preview.png)
 
 ## Features
 
@@ -43,5 +43,5 @@ For inquiries, please feel free to contact me at [hello@abdulmoiz.net](mailto:he
 
 ---
 
-Visit the live project at [TinDog](https://moiz-codebyte.github.io/bootstrap-website/).
+Visit the live project at [TinDog](https://moiz-codebyte.github.io/Bootstrap-website/).
 ```
