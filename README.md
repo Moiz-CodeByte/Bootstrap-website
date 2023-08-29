@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # TinDog
 
 Welcome to TinDog! A creative and playful webpage that simulates a dating app for dogs.
