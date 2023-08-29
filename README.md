@@ -1,4 +1,3 @@
-Certainly! Here's a README.md file for your "TinDog" project with a reference to your website "abdulmoiz.net":
 
 ```markdown
 # TinDog
@@ -44,5 +43,5 @@ For inquiries, please feel free to contact me at [hello@abdulmoiz.net](mailto:he
 
 ---
 
-Visit the live project at [TinDog](https://moiz-codebyte.github.io/bootstrap-website/).
+Visit the live project at [TinDog]([https://moiz-codebyte.github.io/bootstrap-website/](https://moiz-codebyte.github.io/Bootstrap-website/).
 ```
